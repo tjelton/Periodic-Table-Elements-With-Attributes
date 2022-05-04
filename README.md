@@ -1,4 +1,4 @@
-<img src="Assets/the-university-of-sydney-3-logo-png-transparent.png" alt="USyd Logo" width="200"/>
+<img src="Assets/https://github.com/tjelton/Periodic-Table-Elements-With-Attributes/blob/main/Assets/UoS-RGB-standard-logo-mono.png" alt="USyd Logo" width="200"/>
 
 # Periodic Table Elements With Attributes
 
