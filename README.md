@@ -1,4 +1,4 @@
-<img src="Assets/https://github.com/tjelton/Periodic-Table-Elements-With-Attributes/blob/main/Assets/UoS-RGB-standard-logo-mono.png" alt="USyd Logo" width="200"/>
+<img src="Assets/UoS-RGB-standard-logo-mono.png" alt="USyd Logo" width="250"/>
 
 # Periodic Table Elements With Attributes
 
