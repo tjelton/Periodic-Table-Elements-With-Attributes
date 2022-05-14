@@ -1,5 +1,3 @@
-<img src="Assets/UoS-RGB-standard-logo-mono.png" alt="USyd Logo" width="250"/>
-
 # Periodic Table Elements With Attributes
 
 **Author:** [Thomas Elton](https://github.com/tjelton)<sup>**a**</sup>
